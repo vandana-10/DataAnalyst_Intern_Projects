@@ -1,0 +1,75 @@
+
+📘 HR Attrition Prevention Suggestions
+
+
+1. Targeted Retention for High-Risk Roles
+
+Insight: High attrition seen in roles like Sales Executive, Research Scientist, and Laboratory Technician.
+
+Suggestion:
+
+Conduct exit interviews to identify job-specific pain points.
+
+Provide growth pathways and recognition for these roles.
+
+Implement mentorship programs for early-stage employees.
+
+2. Review Salary and Reward Policies
+
+Insight: Employees with lower Percent Salary Hike are more likely to leave.
+
+Suggestion:
+
+Reassess performance-linked incentives.
+
+Introduce salary benchmarking by role and department.
+
+Ensure salary hike distribution is fair and transparent.
+
+3. Improve Travel-Heavy Role Conditions
+
+Insight: Employees who travel frequently have higher attrition rates.
+
+Suggestion:
+
+Offer flexible travel policies.
+
+Provide travel compensation perks (e.g., bonus, days off).
+
+Consider role rotation to reduce burnout.
+
+4. Engagement Programs by Marital Status & Gender
+
+Insight: Married males show higher attrition.
+
+Suggestion:
+
+Promote work-life balance through flexible schedules or remote options.
+
+Introduce family-inclusive benefits like parental leave or wellness support.
+
+5. Departmental Focus: R&D and Sales
+
+Insight: High attrition in R&D and Sales departments.
+
+Suggestion:
+
+Implement career development plans and internal mobility options.
+
+Invest in skills training and recognition programs for these departments.
+
+6. Onboarding and Early Tenure Focus
+
+Suggested KPI: Add “Avg Tenure of Attrited Employees” (often <2 years).
+
+Suggestion:
+
+Strengthen onboarding and first-year mentorship.
+
+Conduct check-ins at 3, 6, and 12 months to identify dissatisfaction early.
+
+7. Continuous Monitoring via HR Dashboard
+
+Maintain dashboards like this to track attrition trends in real-time.
+
+Use filters for dynamic what-if analysis (e.g., by gender, education, business travel).
